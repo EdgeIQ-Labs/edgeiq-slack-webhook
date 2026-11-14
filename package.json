@@ -1,0 +1,1 @@
+{"name":"edgeiq-slack-webhook","version":"1.0.0","description":"Slack integration for EdgeIQ Labs security scanners","main":"index.js","scripts":{"start":"node index.js"},"dependencies":{},"license":"MIT"}
